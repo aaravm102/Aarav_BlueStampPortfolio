@@ -53,6 +53,22 @@ For your first milestone, describe what your project is and how you plan to buil
 - Challenges you're facing and solving in your future milestones
 - What your plan is to complete your project
 
+# Starter Project - Handheld DIY Game Kit
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SV2B-dmxS5s?si=pYqkjdMHAoVgNXuH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Summary
+
+For the beginning of my journey at BlueStamp, I chose for my starter project to be the Handheld Game DIY Kit. This project uses basic soldering techniques to make a portable game device which can run different games such as Tetris, Snake, Space Destroyers, etc... The device runs on three AAA batteries, but the composition of its components are either soldered or placed on a board. 
+
+Components Used
+list components here
+
+Challenges Faced
+
+Overall, the project was not too difficult after learning how to properly solder, but I still had a few challenges while making. There were smaller crevices where it was noticably harder to solder due to the gaps between each joint, which was an obstacle I had encountered for the first time when soldering the project. As a result, after completion there was an issue of a line always being existent no matter what game mode it was on, and this was due to two different joints being connected to one solder. I had to use multiple pieces of tape when building since some of the cable wires were not staying within the board and my battery pack did not stick to the backside of the board. 
+
+
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
