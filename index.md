@@ -1,6 +1,7 @@
 # Self Driving Car
 <!---
 Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+--->
 
 <!--You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
@@ -62,10 +63,6 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 
 
 For the beginning of my journey at BlueStamp, I chose for my starter project to be the Handheld Game DIY Kit. This project uses basic soldering techniques to make a portable game device which can run different games such as Tetris, Snake, Space Destroyers, etc... The device runs on three AAA batteries, but the composition of its components are either soldered or placed on a board. 
-
-# Components Used
-
-list components here
 
 # Challenges Faced
 
