@@ -1,4 +1,5 @@
 # Self Driving Car
+<!---
 Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
 
 <!--You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
@@ -59,8 +60,6 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SV2B-dmxS5s?si=pYqkjdMHAoVgNXuH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-# Summary
-
 For the beginning of my journey at BlueStamp, I chose for my starter project to be the Handheld Game DIY Kit. This project uses basic soldering techniques to make a portable game device which can run different games such as Tetris, Snake, Space Destroyers, etc... The device runs on three AAA batteries, but the composition of its components are either soldered or placed on a board. 
 
 # Components Used
@@ -72,9 +71,12 @@ list components here
 Overall, the project was not too difficult after learning how to properly solder, but I still had a few challenges while making. There were smaller crevices where it was noticably harder to solder due to the gaps between each joint, which was an obstacle I had encountered for the first time when soldering the project. As a result, after completion there was an issue of a line always being existent no matter what game mode it was on, and this was due to two different joints being connected to one solder. I had to use multiple pieces of tape when building since some of the cable wires were not staying within the board and my battery pack did not stick to the backside of the board. 
 
 
+<!--
 # Schematics 
 **Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser.**
+-->
 
+<!--
 # Code
 **Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs.**
 
@@ -90,7 +92,8 @@ void loop() {
 
 }
 ```
-
+-->
+<!--
 # Bill of Materials
 <!--Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
