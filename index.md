@@ -102,7 +102,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| SunFounder 3 in 1 Starter Kit for Arduino Uno R3 | Kit for main project | $59.99 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV](https://www.amazon.com/gp/product/B0B778L1DZ?&linkCode=sl2&tag=sunfounder03-20&linkId=e800c059a16f6cb84ff3dd1e1220cd52&language=en_US&ref_=as_li_ss_tl)6/"> Link </a> 
+| SunFounder 3 in 1 Starter Kit for Arduino Uno R3 | Kit for main project | $59.99 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV](https://www.amazon.com/gp/product/B0B778L1DZ?&linkCode=sl2&tag=sunfounder03-20&linkId=e800c059a16f6cb84ff3dd1e1220cd52&language=en_US&ref_=as_li_ss_tl)6/"> Link <[/a](https://www.amazon.com/gp/product/B0B778L1DZ?&linkCode=sl2&tag=sunfounder03-20&linkId=e800c059a16f6cb84ff3dd1e1220cd52&language=en_US&ref_=as_li_ss_tl)> 
 
 <!--
 # Other Resources/Examples
