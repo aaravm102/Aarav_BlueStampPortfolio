@@ -17,8 +17,9 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 
 ![Headstone Image](logo.svg)
 -->
-  
+<!--  
 # Final Milestone
+-->
 
 <!--**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
@@ -31,8 +32,9 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 - What you hope to learn in the future after everything you've learned at BSE**-->
 
 
-
+<!--
 # Second Milestone
+-->
 
 <!--**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
