@@ -32,24 +32,24 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 - What you hope to learn in the future after everything you've learned at BSE**-->
 
 
-<!--
+
 # Second Milestone
+
+<!--
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 -->
 
-<!--**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+Since my first milestone, I have been able to complete much more advanced movements of the Self Driving Car, specifcally the car being able to avoid obstacles using the Obstacle Avoidance and the Ultrasonic Module. I implemented code that allowed the car to move left, right, forward, and backward. I also coded to avoid obstacles, where the sensors in the Obstacle Avoidance Module detected any object in the way, which then stopped the car and allowed it to move in another direction. In the final goal, this will be one of the parts that allows the car to move following the guide of a hand, with a remote control, and at different speeds. A noticeable part of the project that has surprised is how major of a change a minor fix to code or wiring can do to the car. Specifically, I noticed that when I changed the positioning of my wiring, the speed of my car changed. Also, changing the numerical value of a pin in my code had a drastic change on the motor function of my car. In the midst of all this, however, there were multiple challenges I faced on my way to completing the Second Milestone. The most time consuming and confusing challenge I faced lay in my coding. I used multiple sections of the code given on the Sunfounder website and put it into one whole large code, which had an abundancy of errors when I tried to upload it. I worked for a few days trying to modify the code and fix all the errors, but eventually it was too much and I realized it was not a good use of my time. I then proceeded to upload a smaller piece of code that focused only on avoiding obstacles and recognizing the Ultrasound Module, which was successful and allowed me to get my car moving while also avoiding obstacles. Another issue I faced lay in the wiring, which was an easy fix, as all I needed to do was put some wires in the R3 Board instead of the breadboard and my issue was solved. My last issue was that the car was not moving in a straight line, but kept circling around with one motor dominating the movement. I resolved this problem by inputting a 3ohms resistor into the motor function and the car was then able to move in a straight line. Before my final milestone is recorded, I need to input the other pieces of code, such as the remote control function, the speed change function, and the hand following function. This will allow me to have a fully independent car which can move in all directions at various speeds, functioning almost like an actual car.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<!--
 **For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone**-->
+- What needs to be completed before your final milestone*
+--->
 
 # First Milestone
-
-<!--**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
--->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K4oKiaYhPPw?si=pYo9yJwl9OftwOb2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
