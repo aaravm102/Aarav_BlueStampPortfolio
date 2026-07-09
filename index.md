@@ -1,5 +1,5 @@
 # Self Driving Car
-
+The Self Driving Car uses various modules, boards, breadboards, wires, and motors to allow the car to move by itself in all directions with a change of speed, also being able to detect obstacles and navigate away from them when encountered. Coding is an essential part of contributing to the Arduino Self Driving Car, as C++ is used for the car's basic functions-allowing the car to move backward or left- and advanced functions-avoiding obstacles and tracking lines. 
 <!---
 Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
 --->
