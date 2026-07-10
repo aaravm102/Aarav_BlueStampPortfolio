@@ -30,9 +30,7 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 
 # Second Milestone
 
-<!--
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
--->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dn7C1Sk9gT8?si=jDRwITQU59p00hqf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Summary
 Since my first milestone, I have been able to complete much more advanced movements of the Self Driving Car, specifcally the car being able to avoid obstacles using the Obstacle Avoidance and the Ultrasonic Module. I implemented code that allowed the car to move left, right, forward, and backward. I also coded to avoid obstacles, where the sensors in the Obstacle Avoidance Module detected any object in the way, which then stopped the car and allowed it to move in another direction. In the final goal, this will be one of the parts that allows the car to move following the guide of a hand, with a remote control, and at different speeds. A noticeable part of the project that has surprised is how major of a change a minor fix to code or wiring can do to the car. Specifically, I noticed that when I changed the positioning of my wiring, the speed of my car changed. Also, changing the numerical value of a pin in my code had a drastic change on the motor function of my car.
