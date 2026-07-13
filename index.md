@@ -80,12 +80,12 @@ For the beginning of my journey at BlueStamp, I chose for my starter project to 
 
 Overall, the project was not too difficult after learning how to properly solder, but I still had a few challenges while making. There were smaller crevices where it was noticably harder to solder due to the gaps between each joint, which was an obstacle I had encountered for the first time when soldering the project. As a result, after completion there was an issue of a line always being existent no matter what game mode it was on, and this was due to two different joints being connected to one solder. I had to use multiple pieces of tape when building since some of the cable wires were not staying within the board and my battery pack did not stick to the backside of the board. 
 
-
-<!--
 # Schematics 
+(BSE Schematics.svg)
+<!--
 **Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser.**
 -->
-(BSE Schematics.svg)
+
 <!--
 # Code
 **Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs.**
