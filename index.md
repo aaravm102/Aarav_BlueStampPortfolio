@@ -20,7 +20,11 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 -->
-Since the second milestone, there has been significant progress into my main project, to which I have finished without the modifications. My second milestone marked the time when I finished inputting code for the Ultrasonic and Obstacle Avoidance Module, but since then I have made significant progress in more advanced mechanisms. 
+# Summary
+Since the second milestone, there has been significant progress into my main project, to which I have finished without the modifications. My second milestone marked the time when I finished inputting code for the Ultrasonic and Obstacle Avoidance Module, but since then I have made significant progress in more advanced mechanisms. Specifically, I coded it to fully drive by itself, move in all directions and various speeds, work by using a remote control, and accelerate/deaccelerate. Coding was the only work I changed from the second to this milestone, so all my work was done in the Arduino portal and many changes were done there. 
+
+# Challenges
+I faced a few challenges when coding, especially when organizing the code since I was getting errors when some pieces of codes were in certain locations. Sometimes some errors gave a vague description of the error, so correcting them and knowing what to do took some more time and was a challenge that I faced as well.
 <!--
 **For your final milestone, explain the outcome of your project. Key details to include are:
 - What you've accomplished since your previous milestone
