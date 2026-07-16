@@ -459,6 +459,8 @@ void loop() {
 
 # Other Resources/Examples
 - Building the car and getting code for it to move (https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_assemble.html)
+- Another student's portfolio example (https://deringur.github.io/BSE_Derin_Portfolio/)
+- Schematic design help (https://www.remove.bg/upload)
 
 <!--
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
