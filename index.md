@@ -456,6 +456,7 @@ void loop() {
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | SunFounder 3 in 1 Starter Kit for Arduino Uno R3 | Kit for main project | $59.99 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV](https://www.amazon.com/gp/product/B0B778L1DZ?&linkCode=sl2&tag=sunfounder03-20&linkId=e800c059a16f6cb84ff3dd1e1220cd52&language=en_US&ref_=as_li_ss_tl)6/"> Link <[/a](https://www.amazon.com/gp/product/B0B778L1DZ?&linkCode=sl2&tag=sunfounder03-20&linkId=e800c059a16f6cb84ff3dd1e1220cd52&language=en_US&ref_=as_li_ss_tl)> 
+| MPU-6050 Gyroscope | Gyroscope modification | $8.99 | <a href="[https://www.amazon.com/EC-Buying-MPU-6500-Gyroscope-Accelerometer/dp/B0F98N4PB2/ref=sr_1_1_sspa?crid=856NBSTR6BUQ&dib=eyJ2IjoiMSJ9.uV_HoXZ9XecWzwViTNXUy6vD8EyQYOfIf2iGFCqgNlNY4e02wO8xm5jw4eOdKRH9YbgYLovcWnVrNXEiAlQC_9D9kHjKuDKiLc51qRrv89FuuVZAuNsEhK1Rg5WXaV3hoSYa0GAWZoYCa24osHU5g7Af5t6220B3NYjgdTR3dU4Ds47HfBkbf1NUtJsPDbpRc7hKSARb3kWJGedZuIyZ7Q2NxoSX4An7yOPnZan-W-w.0aPKvh3Q9_JFKmRhRJKhDFpaKuB0Ym1PXzGb2iwiM6Y&dib_tag=se&keywords=mpu+65060+gyroscope&qid=1784234384&sprefix=mpu+65060+gyroscope%2Caps%2C145&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)>
 
 # Other Resources/Examples
 - Building the car and getting code for it to move (https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_assemble.html)
