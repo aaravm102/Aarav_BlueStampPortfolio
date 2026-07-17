@@ -567,9 +567,9 @@ void loop() {
 | MPU-6050 Gyroscope | Gyroscope modification | $8.99 | <a href="https://www.amazon.com/EC-Buying-MPU-6500-Gyroscope-Accelerometer/dp/B0F98N4PB2/ref=sr_1_1_sspa?crid=856NBSTR6BUQ&dib=eyJ2IjoiMSJ9.uV_HoXZ9XecWzwViTNXUy6vD8EyQYOfIf2iGFCqgNlNY4e02wO8xm5jw4eOdKRH9YbgYLovcWnVrNXEiAlQC_9D9kHjKuDKiLc51qRrv89FuuVZAuNsEhK1Rg5WXaV3hoSYa0GAWZoYCa24osHU5g7Af5t6220B3NYjgdTR3dU4Ds47HfBkbf1NUtJsPDbpRc7hKSARb3kWJGedZuIyZ7Q2NxoSX4An7yOPnZan-W-w.0aPKvh3Q9_JFKmRhRJKhDFpaKuB0Ym1PXzGb2iwiM6Y&dib_tag=se&keywords=mpu+65060+gyroscope&qid=1784234384&sprefix=mpu+65060+gyroscope%2Caps%2C145&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> <ins>Link</ins> </a>
 
 # Other Resources/Examples
-- Building the car and getting code for it to move (<a href="https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_assemble.html"> <isn>Link</ins> </a>
-- Another student's portfolio example (https://deringur.github.io/BSE_Derin_Portfolio/)
-- Schematic design help (https://www.remove.bg/upload)
+- Building the car and getting code for it to move (<a href="https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_assemble.html"> <isn>Link</ins> </a>)
+- Another student's portfolio example (<a href="https://deringur.github.io/BSE_Derin_Portfolio/"> <isn>Link</ins> </a>)
+- Schematic design help (<a href="https://www.remove.bg/upload"> <isn>Link</isn> </a>)
 
 <!--
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
