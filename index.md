@@ -92,7 +92,7 @@ Overall, the project was not too difficult after learning how to properly solder
 
 # Schematics 
 ![Schematics Photo](Schematics.svg)
-*Note: All wires are color coded according to what is on the car, black wires showing a GND connections.
+*Note: All wires are color coded according to what is on the car, black wires showing a GND connections.*
 <!--
 **Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser.**
 -->
