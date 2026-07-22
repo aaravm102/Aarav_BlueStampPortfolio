@@ -170,7 +170,11 @@ void setup() {
     EEPROM.write(1, 100); //write the offset to the right motor
     leftOffset = EEPROM.read(0) * 0.01;//read the offset of the left motor
     rightOffset = EEPROM.read(1) * 0.01;//read the offset of the right motor
-    delay(5000);
+    moveRight(speed);
+    delay(2500);
+    moveLeft(speed);
+    delay(2150);
+  
 
   Serial.println("Adafruit MPU6050 test!");
 
@@ -322,7 +326,7 @@ void AutoDrive(int speed) {
   } else {
     float distance = readSensorData();
     Serial.println(distance);
-    if (distance > 50) {  // Safe
+    if (distance > 10) {  // Safe
       moveForward(200);
     } else if (distance < 10 && distance > 2) {  // Attention
       moveBackward(200);
@@ -350,7 +354,7 @@ void ultrasonicExample(int speed) {
   Serial.println(distance);
   if (distance > 25) {
     moveForward(speed);
-  } else if (distance < 10 && distance > 2) {
+  } else if (distance < 25 && distance > 2) {
     moveBackward(speed);
   } else {
     stopMove();
@@ -387,6 +391,9 @@ void following(int speed) {
     turnRight(speed);
   } else {
     stopMove();
+    delay(20);
+    moveBackward(speed);
+    delay(20);
   }
 }
 
@@ -456,14 +463,16 @@ void loop() {
         moveForward(speed);
     }
     float distance = readSensorData();
+    /*
     if (distance > 25) {
         moveForward(200);
   }
-    else if (distance < 10 && distance > 2) {
+    else if (distance < 25 && distance > 2) {
         moveBackward(200);
   } else {
         stopMove();
   }
+  */
     if (IrReceiver.decode()) {
         String key = decodeKeyValue(IrReceiver.decodedIRData.command);
         if (key != "ERROR") {
