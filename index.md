@@ -5,7 +5,7 @@ The Self Driving Car uses various modules, boards, breadboards, wires, and motor
 |:--:|:--:|:--:|:--:|
 | Aarav M | American High School | Data Science | Incoming Senior
 
-![Headshot](Headshot.svg)  
+![Headshot](Headshot.svg) {:height="100%" width="100%"}
 
 # Final Milestone
 
