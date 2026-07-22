@@ -540,6 +540,6 @@ void loop() {
 
 # Other Resources/Examples
 - Building the car and getting code for it to move (<a href="https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_assemble.html"> <ins>Link</ins> </a>)
-- Another student's portfolio example (<a href="https://deringur.github.io/BSE_Derin_Portfolio/"> <isn>Link</ins> </a>)
+- Another student's portfolio example (<a href="https://deringur.github.io/BSE_Derin_Portfolio/"> <ins>Link</ins> </a>)
 - Schematic design help (<a href="https://www.remove.bg/upload"> <ins>Link</ins> </a>)
-- Wiring for gyroscope and code (<a href="https://www.youtube.com/watch?v=BkqZWeC_xCg"> <isn>Link</ins> </a>
+- Wiring for gyroscope and code (<a href="https://www.youtube.com/watch?v=BkqZWeC_xCg"> <ins>Link</ins> </a>)
