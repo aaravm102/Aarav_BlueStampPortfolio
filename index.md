@@ -9,7 +9,7 @@ The Self Driving Car uses various modules, boards, breadboards, wires, and motor
 
 # Final Milestone
 
-<iframe width="807" height="394" src="https://www.youtube.com/embed/ZerwUfCBL3A?si=v3Rmr5HNRXRjFPK5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="394" src="https://www.youtube.com/embed/ZerwUfCBL3A?si=v3Rmr5HNRXRjFPK5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Summary
 Since the second milestone, there has been significant progress into my main project, to which I have finished without the modifications. My second milestone marked the time when I finished inputting code for the Ultrasonic and Obstacle Avoidance Module, but since then I have made significant progress in more advanced mechanisms. Specifically, I coded it to fully drive by itself, move in all directions and various speeds, work by using a remote control, and accelerate/deaccelerate. Coding was the only work I changed from the second to this milestone, so all my work was done in the Arduino portal and many changes were done there. 
