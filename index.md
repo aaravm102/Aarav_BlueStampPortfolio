@@ -1,21 +1,13 @@
 # Self Driving Car
 The Self Driving Car uses various modules, boards, breadboards, wires, and motors to allow the car to move by itself in all directions with a change of speed, also being able to detect obstacles and navigate away from them when encountered. Coding is an essential part of contributing to the Arduino Self Driving Car, as C++ is used for the car's basic functions-allowing the car to move backward or left- and advanced functions-avoiding obstacles and tracking lines. 
-<!---
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
---->
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Aarav M | American High School | Data Science | Incoming Senior
 
-<!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
--->
 ![Headshot](Headshot.svg)  
 
 # Final Milestone
-
-<!--**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
---->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZerwUfCBL3A?si=v3Rmr5HNRXRjFPK5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -31,14 +23,6 @@ Overall, I had a great time at BlueStamp, but there were many challenges I faced
 ## Learnings and Next Steps
 Out of the many topics I learned at BlueStamp, I felt some were more important and needed to be talked about more. Learning how to solder, how breadboards worked, how important it was for wire connections to go to the right location, how to code in C++ and interpret errors, etc... were topics that I used heavily throughout the program. Even after the completion of the program, I want keep learning similar ideas I learned during my time at BlueStamp. I found the short lectures the instructors gave us about the way certain components function entertaining, so being able to expand my engineering knowledge is an area I wish to tackle in the near future.
 
-<!--
-N**For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE**
--->
-
 # Second Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dn7C1Sk9gT8?si=jDRwITQU59p00hqf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -51,14 +35,6 @@ In the midst of all this, however, there were multiple challenges I faced on my 
 
 ## Next Steps
 Before my final milestone is recorded, I need to input the other pieces of code, such as the remote control function, the speed change function, and the hand following function. This will allow me to have a fully independent car which can move in all directions at various speeds, functioning almost like an actual car.
-
-<!--
-**For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone*
---->
 
 # First Milestone
 
@@ -73,13 +49,6 @@ All this progress definitely did not come without any challenges however, as I f
 ## Next Steps
 Before my second milestone, my wish is to incorporate all the code that is needed for the car to move following a straight line and can avoid obstacles, before I work on regulating speed and direction for my last milestone.  
 
-<!--**For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project**
--->
-
 # Starter Project - Handheld DIY Game Kit
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SV2B-dmxS5s?si=pYqkjdMHAoVgNXuH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -93,14 +62,8 @@ Overall, the project was not too difficult after learning how to properly solder
 # Schematics 
 ![Schematics Photo](Schematics.svg)
 *Note: All wires are color coded according to what is on the car, black wires showing a GND connections.*
-<!--
-**Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser.**
--->
 
 # Code
-<!--
-**Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs.**
--->
 
 ```c++
 #include <EEPROM.h>
