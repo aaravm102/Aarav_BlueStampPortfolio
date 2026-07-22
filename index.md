@@ -483,31 +483,30 @@ void loop() {
             } else if (key == "-") {
                 speed -= 50;
             } else if (key == "2") {
-                moveForward(50);
-                delay(1000);
+              moveForward(speed);
+              delay(1000);
             } else if (key == "1") {
-                moveLeft(50);
+              moveLeft(speed);
             } else if (key == "3") {
-                moveRight(50);
+              moveRight(speed);
             } else if (key == "4") {
-                turnLeft(50);
+              turnLeft(speed);
             } else if (key == "6") {
-                turnRight(50);
+              turnRight(speed);
             } else if (key == "7") {
-                backLeft(50);
+              backLeft(speed);
             } else if (key == "9") {
-                backRight(50);
+              backRight(speed);
             } else if (key == "8") {
-                moveBackward(50);
-                delay(1000);
-        }
+              moveBackward(speed);
+              delay(1000);
             } else if (key == "CYCLE") {
-                flag = "LINE";
+              flag = "LINE";
             } else if (key == "U/SD") {
-                flag = "AUTO";
+              flag = "AUTO";
             } else if (key == "0") {
-                flag = "NONE";
-                stopMove();
+              flag = "NONE";
+              stopMove();
             } else if (key == "FORWARD") {
                 flag = "ULTR";
             } else if (key == "BACKWARD") {
@@ -515,17 +514,16 @@ void loop() {
             } else if (key == "EQ") {
                 flag = "FOLW";
             }
-
-        if (speed >= 255) {
-        speed = 255;
-        }
-        if (speed <= 0) {
-        speed = 0;
-        }
-      delay(500);
-      stopMove();
-    }
-        IrReceiver.resume();
+            if (speed >= 255) {
+              speed = 255;
+            }
+            if (speed <= 0) {
+              speed = 0;
+            }
+            delay(500);
+            stopMove();
+          }
+          IrReceiver.resume();
       
       if (flag == "AUTO") {
         AutoDrive(speed);
@@ -566,6 +564,7 @@ void loop() {
 
   Serial.println("");
   delay(500);
+}
 }
 ```
 
