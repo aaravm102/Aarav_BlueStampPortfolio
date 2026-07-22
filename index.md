@@ -9,7 +9,7 @@ The Self Driving Car uses various modules, boards, breadboards, wires, and motor
 
 # Final Milestone
 
-<iframe width="875" height="394" src="https://www.youtube.com/embed/ZerwUfCBL3A?si=v3Rmr5HNRXRjFPK5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="900" height="394" src="https://www.youtube.com/embed/ZerwUfCBL3A?si=v3Rmr5HNRXRjFPK5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Summary
 Since the second milestone, there has been significant progress into my main project, to which I have finished without the modifications. My second milestone marked the time when I finished inputting code for the Ultrasonic and Obstacle Avoidance Module, but since then I have made significant progress in more advanced mechanisms. Specifically, I coded it to fully drive by itself, move in all directions and various speeds, work by using a remote control, and accelerate/deaccelerate. Coding was the only work I changed from the second to this milestone, so all my work was done in the Arduino portal and many changes were done there. 
@@ -25,7 +25,7 @@ Out of the many topics I learned at BlueStamp, I felt some were more important a
 
 # Second Milestone
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dn7C1Sk9gT8?si=jDRwITQU59p00hqf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="900" height="394" src="https://www.youtube.com/embed/dn7C1Sk9gT8?si=jDRwITQU59p00hqf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Summary
 Since my first milestone, I have been able to complete much more advanced movements of the Self Driving Car, specifcally the car being able to avoid obstacles using the Obstacle Avoidance and the Ultrasonic Module. I implemented code that allowed the car to move left, right, forward, and backward. I also coded to avoid obstacles, where the sensors in the Obstacle Avoidance Module detected any object in the way, which then stopped the car and allowed it to move in another direction. In the final goal, this will be one of the parts that allows the car to move following the guide of a hand, with a remote control, and at different speeds. A noticeable part of the project that has surprised is how major of a change a minor fix to code or wiring can do to the car. Specifically, I noticed that when I changed the positioning of my wiring, the speed of my car changed. Also, changing the numerical value of a pin in my code had a drastic change on the motor function of my car.
@@ -38,7 +38,7 @@ Before my final milestone is recorded, I need to input the other pieces of code,
 
 # First Milestone
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4oKiaYhPPw?si=pYo9yJwl9OftwOb2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="900" height="394" src="https://www.youtube.com/embed/K4oKiaYhPPw?si=pYo9yJwl9OftwOb2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Summary
 The Self Driving Car is a project where a car drives by itself using various coding properties, combination of wires, and modules. This self driving car will be able to navigate itself in different directions and change speed. My building plan for the car is to build the entire car before adding any code, which means connecting all the wires needed and placing it on the mini breadboard as well as installing all necessary modules. The car, when plugged in, will be able to move by itself in a constant speed and direction with the line tracking and L9110 modules lighting up and being active. In terms of progress, I was able to successfully construct the whole car with all of the necessary wire connections, installing modules and connecting those wires back to the breadboard and R3 Board. I installed necessary motors and a battery for the car to move, and eventually when I plugged in my battery cable to the R3 Board, the car began to move on its own at a constant velocity. 
@@ -51,7 +51,7 @@ Before my second milestone, my wish is to incorporate all the code that is neede
 
 # Starter Project - Handheld DIY Game Kit
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SV2B-dmxS5s?si=pYqkjdMHAoVgNXuH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="900" height="394" src="https://www.youtube.com/embed/SV2B-dmxS5s?si=pYqkjdMHAoVgNXuH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For the beginning of my journey at BlueStamp, I chose for my starter project to be the Handheld Game DIY Kit. This project uses basic soldering techniques to make a portable game device which can run different games such as Tetris, Snake, Space Destroyers, etc... The device runs on three AAA batteries, but the composition of its components are either soldered or placed on a board. 
 
