@@ -84,7 +84,7 @@ const int A_1B = 5;
 const int A_1A = 6;
 const int B_1B = 9;
 const int B_1A = 10;
-
+const int heaterPin = 11;
 const int rightIR = 7;
 const int leftIR = 8;
 
@@ -127,20 +127,21 @@ void setup() {
     //ultrasonic
     pinMode(echoPin, INPUT);
     pinMode(trigPin, OUTPUT);
+    pinMode(heaterPin, OUTPUT);
 
     //IR Remote
     IrReceiver.begin(IR_RECEIVE_PIN, ENABLE_LED_FEEDBACK);
     Serial.println("REMOTE CONTROL START");
+    digitalWrite(heaterPin, HIGH);
 
     EEPROM.write(0, 100); //write the offset to the left motor
     EEPROM.write(1, 100); //write the offset to the right motor
     leftOffset = EEPROM.read(0) * 0.01;//read the offset of the left motor
     rightOffset = EEPROM.read(1) * 0.01;//read the offset of the right motor
-    moveRight(speed);
-    delay(2500);
     moveLeft(speed);
-    delay(2150);
-  
+    delay(2000);
+    moveRight(speed);
+    delay(2000);
 
   Serial.println("Adafruit MPU6050 test!");
 
@@ -414,6 +415,18 @@ void following(int speed) {
       return "ERROR";
     }
 }
+
+void danceMoonwalk() {
+  // Step backward 3 times with pauses
+  for (int i = 0; i < 3; i++) {
+    moveBackward(speed);
+    delay(200);
+  }
+  // 360 Spin Victory Finish
+    turnRight(speed);
+    delay(800); 
+}
+
 void loop() {
 
     int left = digitalRead(leftIR);   // 0: Obstructed  1: Empty
@@ -457,6 +470,10 @@ void loop() {
               moveRight(speed);
             } else if (key == "4") {
               turnLeft(speed);
+            } else if (key == "5") {
+              moveForward(speed);
+              delay(500);
+              danceMoonwalk(); 
             } else if (key == "6") {
               turnRight(speed);
             } else if (key == "7") {
